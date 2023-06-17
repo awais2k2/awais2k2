@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/digital-background-binary-code-with-glitch-effect-screen-concept-coding-security-mining-3d-rendering_710001-413.jpg?w=1380)]
+![MasterHead](https://img.freepik.com/premium-photo/digital-background-binary-code-with-glitch-effect-screen-concept-coding-security-mining-3d-rendering_710001-413.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Awais Khan</h1>
 <h3 align="center">A passionate Web developer (Frontend and Backend) from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mawais2k2@gmail.com**
 
-- ⚡ Fun fact **I once built a fully functional web application in just one weekend, from conceptualizing the idea, designing the user interface, coding the frontend and backend, to deploying it to a live server. It was an exciting and challenging experience that showcased my ability to work under pressure and deliver results quickly**
+- ⚡ Fun fact *** Eat😋 Code😁 Sleep😴  Repeat🤐 ***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
